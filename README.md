@@ -1,4 +1,5 @@
 # Data-Structures-And-Algorithms
+This repository aims to...
 Implement Data Structures such as:
 - Arrays
 - Linked List
@@ -15,3 +16,6 @@ Implement Algorithms such as:
 - Binary Search
 - Depth-first search
 - Breadth-first search
+
+In the languages of:
+Python
